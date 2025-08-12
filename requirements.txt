@@ -1,0 +1,8 @@
+requests
+pandas 
+numpy
+jupyterlab
+matplotlib
+seaborn
+plotly
+html5lib
