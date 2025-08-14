@@ -43,6 +43,6 @@ La herramienta, implementada en un Jupyter Notebook (`calculo_propiedad.ipynb`),
 
     - Abre el archivo `calculo_propiedad.ipynb` y sigue las instrucciones para ingresar tus datos y ejecutar las celdas.
 
-# Contribuciones
+## Contribuciones
 
 Las contribuciones son bienvenidas. Si deseas mejorar la calculadora o agregar nuevas funciones, siéntete libre de enviar un pull request.
