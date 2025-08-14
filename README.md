@@ -21,7 +21,7 @@ La herramienta, implementada en un Jupyter Notebook (`calculo_propiedad.ipynb`),
     cd amortizacion-propiedad
     ```
 
-2.  **Crea un entorno virtual e instala las dependencias:**
+2.  **Crea un entorno virtual, actívalo e instala las dependencias:**
 
     ```bash
     python -m venv .venv
